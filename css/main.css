@@ -158,7 +158,7 @@ a:active{
 	background: -moz-linear-gradient( center top, #d29105 5%, #f6b33d 100% );
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#d29105', endColorstr='#f6b33d');
 	background-color: #d29105;
-}.button_active{
+}.button:active{
 	position: relative;
 	top: 1px;
 }
